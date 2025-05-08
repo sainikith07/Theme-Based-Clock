@@ -2,8 +2,6 @@
 
 <div align="center">
   
-![Theme Clock Preview](https://via.placeholder.com/800x200?text=Elegant+Theme+Based+Clock)
-
 [![Live Demo](https://img.shields.io/badge/✨%20Live%20Demo-Visit%20Site-brightgreen?style=for-the-badge)](https://sainikith07.github.io/Theme-Based-Clock/)
 
 </div>
@@ -29,7 +27,6 @@ This repository hosts an elegant, interactive analog & digital clock application
 
 <div align="center">
   <a href="https://sainikith07.github.io/Theme-Based-Clock/" target="_blank">
-    <img src="https://via.placeholder.com/600x100?text=Click+to+View+Live+Demo" alt="Demo Banner" width="600px"/>
   </a>
 </div>
 
@@ -39,11 +36,9 @@ This repository hosts an elegant, interactive analog & digital clock application
   <table>
     <tr>
       <td>
-        <img src="https://i.ibb.co/8X3QtM6/light-mode.jpg" alt="Light Theme" width="400px"/>
         <p align="center">✨ Light Theme</p>
       </td>
       <td>
-        <img src="https://i.ibb.co/ypkZrQ3/dark-mode.jpg" alt="Dark Theme" width="400px"/>
         <p align="center">🌙 Dark Theme</p>
       </td>
     </tr>
